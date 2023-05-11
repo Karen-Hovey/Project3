@@ -16,7 +16,7 @@ code {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100vm;
+  width: 300vm;
   background-color: #0d1b2a;
 }
 
@@ -49,6 +49,8 @@ color: #778da9}
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: #778da9;
 background-color: #0d1b2a;
+font-size: 30px;
+text-align: center;
 }
 
 #info h1{
@@ -58,18 +60,11 @@ background-color: #0d1b2a;
   border-color: #0d1b2a;
 }
 
-#info h3{
-  font-size: 20px;
-  text-align: center;
-}
-
 main {
-height: 90vh;
 display: flex;
 flex-direction: row;
 flex-wrap: wrap;
 justify-content: center;
-width: 100vw;
 background-color: #0d1b2a;
 flex: 1 1 0px;
 }
@@ -78,6 +73,6 @@ img {
 background-color: #415a77;
 margin: 50px;
 padding: 10px;
-width: 17vw;
+width: 18vw;
 height: 350px
 }
