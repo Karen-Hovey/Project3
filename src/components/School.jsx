@@ -11,9 +11,7 @@ const School = (props) => {
         <h3>Ranking:{props.school.rank}</h3>
       </div>
       <div className="conference">
-        {props.school.conference.map((conference) => (
-          <Conference conference={conference} />
-        ))}
+        <h3>{props.school.conference}</h3>
       </div>
     </div>
   )

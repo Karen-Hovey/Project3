@@ -9,7 +9,7 @@ const App = () => {
       <h1>Top Marketing Programs in the US</h1>
       <main>
         {schoolArray.map((school) => (
-          <School school={school} />
+          <School key={school.schoolName} school={school} />
         ))}
       </main>
     </div>
