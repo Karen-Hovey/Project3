@@ -8,10 +8,10 @@ const School = (props) => {
       <img src={props.school.logo} alt={props.school.schoolName} id="logo" />
       <div id="info">
         <h1>{props.school.schoolName}</h1>
-        <h3>Ranking:{props.school.rank}</h3>
+        <h3>Ranking: #{props.school.rank}</h3>
       </div>
       <div className="conference">
-        <h3>{props.school.conference}</h3>
+        <h3>Conference: {props.school.conference}</h3>
       </div>
     </div>
   )
