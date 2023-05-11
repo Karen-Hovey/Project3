@@ -1,0 +1,272 @@
+[
+  {
+    "schoolName": "University of Michigan - Ann Arbor",
+    "rank": "1",
+    "tuitionOutofstate": "$57,273",
+    "tuitionInstate": "$17,786",
+    "location": "Ann Arbor, MI",
+    "conference": "Big Ten",
+    "mascot": "NA aka Wolverine",
+    "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FhmTowhw_university-of-michigan-logo-png-transparent-png%2F&psig=AOvVaw1mG3PZ_1ZhTHhgE0msT2rk&ust=1683919264316000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD0rZ7-7f4CFQAAAAAdAAAAABAE"
+  },
+  {
+    "schoolName": "University of Pennsylvania",
+    "rank": "2",
+    "tuitionOutofstate": "$63,452",
+    "tuitionInstate": "$63,452",
+    "location": "Philadelphia, PA",
+    "conference": "Ivy League",
+    "mascot": "The Fighting Quaker",
+    "logo": "https://branding.web-resources.upenn.edu/sites/default/files/styles/card_3x2/public/2022-03/UniversityofPennsylvania_Vertical_RGB-2.png?h=02be4b2a&itok=mPdml12L"
+  },
+  {
+    "schoolName": "Indiana University",
+    "rank": "3",
+    "tuitionOutofstate": "$39,120",
+    "tuitionInstate": "$11,447",
+    "location": "Bloomington, IN",
+    "conference": "Big Ten",
+    "mascot": "NA aka Hoosiers",
+    "logo": "https://cdn.freebiesupply.com/logos/large/2x/indiana-hoosiers-logo-png-transparent.png"
+  },
+  {
+    "schoolName": "University of Texas at Austin",
+    "rank": "4",
+    "tuitionOutofstate": "$40,996",
+    "tuitionInstate": "$11,752",
+    "location": "Austin, TX",
+    "conference": "Big 12",
+    "mascot": "Bevo: Texas Longhorn",
+    "logo": "https://logos-world.net/wp-content/uploads/2022/02/University-of-Texas-at-Austin-Logo.png"
+  },
+  {
+    "schoolName": "New York University",
+    "rank": "5",
+    "tuitionOutofstate": "$58,168",
+    "tuitionInstate": "$58,168",
+    "location": "New York, NY",
+    "conference": "UAA",
+    "mascot": "Bobcat",
+    "logo": "https://logos-world.net/wp-content/uploads/2021/09/NYU-Logo.png"
+  },
+  {
+    "schoolName": "University of California, Berkeley",
+    "rank": "6",
+    "tuitionOutofstate": "$43,980",
+    "tuitionInstate": "$14,226",
+    "location": "Berkeley, CA",
+    "conference": "PAC-12",
+    "mascot": "Oski the Bear",
+    "logo": "https://www.vhv.rs/dpng/d/299-2997176_uc-berkeley-yellow-transparent-hd-png-download.png"
+  },
+  {
+    "schoolName": "University of Virginia",
+    "rank": "7",
+    "tuitionOutofstate": "$56,837",
+    "tuitionInstate": "$21,381",
+    "location": "Charlottesville, VA",
+    "conference": "ACC",
+    "mascot": "Cavalier",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Virginia_Cavaliers_sabre.svg/2560px-Virginia_Cavaliers_sabre.svg.png"
+  },
+  {
+    "schoolName": "University of Wisconsin - Madison",
+    "rank": "8",
+    "tuitionOutofstate": "$39,427",
+    "tuitionInstate": "$10,796",
+    "location": "Madison, WI",
+    "conference": "Big Ten",
+    "mascot": "Bucky Badger",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wisconsin_Badgers_logo.svg/1086px-Wisconsin_Badgers_logo.svg.png"
+  },
+  {
+    "schoolName": "University of North Caroline at Chapel Hill",
+    "rank": "9",
+    "tuitionOutofstate": "$37,558",
+    "tuitionInstate": "$8,998",
+    "location": "Chapel Hill, NC",
+    "conference": "ACC",
+    "mascot": "Rameses: Tar Hills",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/North_Carolina_Tar_Heels_logo.svg/1280px-North_Carolina_Tar_Heels_logo.svg.png"
+  },
+  {
+    "schoolName": "University of Florida",
+    "rank": "10",
+    "tuitionOutofstate": "$28,658",
+    "tuitionInstate": "$6,380",
+    "location": "Gainesville, FL",
+    "conference": "SEC",
+    "mascot": "Albert and Alberta Gator: Gators",
+    "logo": "https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png"
+  },
+  {
+    "schoolName": "University of Southern California",
+    "rank": "11",
+    "tuitionOutofstate": "$64,726",
+    "tuitionInstate": "$64,726",
+    "location": "Los Angeles, CA",
+    "conference": "PAC-12",
+    "mascot": "Traveler the horse: Trojans",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/USC_Trojans_logo.svg/640px-USC_Trojans_logo.svg.png"
+  },
+  {
+    "schoolName": "University of Illinois Urbana-Champaign",
+    "rank": "12",
+    "tuitionOutofstate": "$35,110",
+    "tuitionInstate": "$17,138",
+    "location": "Champagne, IL",
+    "conference": "Big Ten",
+    "mascot": "NA aka The Fighting Illini",
+    "logo": "https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"
+  },
+  {
+    "schoolName": "Texas A&M",
+    "rank": "13(tie)",
+    "tuitionOutofstate": "$40,087",
+    "tuitionInstate": "$13,178",
+    "location": "College Station, TX",
+    "conference": "SEC",
+    "mascot": "Reveille aka Aggies",
+    "logo": "https://brandguide.tamu.edu/assets/img/logos/tam-logo.png"
+  },
+  {
+    "schoolName": "University of Notre Dame",
+    "rank": "13(tie)",
+    "tuitionOutofstate": "$60,301",
+    "tuitionInstate": "$60,301",
+    "location": "Notre Dame, IN",
+    "conference": "ACC",
+    "mascot": "Leprechaun aka Fighting Irish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Notre_Dame_Fighting_Irish_logo.svg/2276px-Notre_Dame_Fighting_Irish_logo.svg.png"
+  },
+  {
+    "schoolName": "Arizona State University",
+    "rank": "15(tie)",
+    "tuitionOutofstate": "$30,592",
+    "tuitionInstate": "$11,618",
+    "location": "Tempe, AZ",
+    "conference": "PAC-12",
+    "mascot": "Sparky the Sun Devil",
+    "logo": "https://assets.stickpng.com/images/6144775a5953a50004ee16bc.png"
+  },
+  {
+    "schoolName": "Boston College",
+    "rank": "15(tie)",
+    "tuitionOutofstate": "$64,176",
+    "tuitionInstate": "$64,176",
+    "location": "Chestnut Hill, MA",
+    "conference": "ACC",
+    "mascot": "Baldwin the Eagle",
+    "logo": "https://1000logos.net/wp-content/uploads/2021/06/Boston-College-Eagles-logo.png"
+  },
+  {
+    "schoolName": "Fordham University",
+    "rank": "17(tie)",
+    "tuitionOutofstate": "$58,082",
+    "tuitionInstate": "$58,082",
+    "location": "New York, NY",
+    "conference": "Atlantic 10",
+    "mascot": "The Ram",
+    "logo": "https://cdn.freebiesupply.com/logos/large/2x/fordham-rams-logo-png-transparent.png"
+  },
+  {
+    "schoolName": "The Ohio State University",
+    "rank": "17(tie)",
+    "tuitionOutofstate": "$35,019",
+    "tuitionInstate": "$11,936",
+    "location": "Columbus, OH",
+    "conference": "Big Ten",
+    "mascot": "Brutus Buckeye",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ohio_State_Buckeyes_logo.svg/1041px-Ohio_State_Buckeyes_logo.svg.png"
+  },
+  {
+    "schoolName": "University of Maryland, College Park",
+    "rank": "17(tie)",
+    "tuitionOutofstate": "$39,469",
+    "tuitionInstate": "$11,233",
+    "location": "College Park, MD",
+    "conference": "Big Ten",
+    "mascot": "Testudo aka The Terrapins",
+    "logo": "https://i.pinimg.com/736x/b1/ad/46/b1ad46ec57029cbff79c5f9c56135db3.jpg"
+  },
+  {
+    "schoolName": "University of Minnesota, Twin Cities",
+    "rank": "17(tie)",
+    "tuitionOutofstate": "$35,099",
+    "tuitionInstate": "$15,859",
+    "location": "Minneapolis, MN",
+    "conference": "Big Ten",
+    "mascot": "Goldy Gopher aka Gophers",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/1280px-University_of_Minnesota_Logo.svg.png"
+  },
+  {
+    "schoolName": "University of Washington",
+    "rank": "17(tie)",
+    "tuitionOutofstate": "$40,740",
+    "tuitionInstate": "$12,242",
+    "location": "Seattle, WA",
+    "conference": "PAC-12",
+    "mascot": "Harry the Husky aka The Huskies",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Washington_Huskies_logo.svg/2560px-Washington_Huskies_logo.svg.png"
+  },
+  {
+    "schoolName": "Cornell University",
+    "rank": "22(tie)",
+    "tuitionOutofstate": "$63,200",
+    "tuitionInstate": "$63,200",
+    "location": "Ithaca, NY",
+    "conference": "Ivy League",
+    "mascot": "Big Red Bear",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cornell_University_Logo.png"
+  },
+  {
+    "schoolName": "Loyola University Chicago",
+    "rank": "22(tie)",
+    "tuitionOutofstate": "$49,188",
+    "tuitionInstate": "$49,188",
+    "location": "Chicago, IL",
+    "conference": "Atlantic 10",
+    "mascot": "LU Wolf aka The Ramblers",
+    "logo": "https://luc.edu/media/lucedu/universitymarketingcommunication/LUC_stacked_maroonblack.png"
+  },
+  {
+    "schoolName": "Michigan State University",
+    "rank": "22(tie)",
+    "tuitionOutofstate": "$40,662",
+    "tuitionInstate": "$14,850",
+    "location": "East Lansing, MI",
+    "conference": "Big Ten",
+    "mascot": "Sparty aka The Spartans",
+    "logo": "https://1000logos.net/wp-content/uploads/2017/10/michigan-state-logo.png"
+  },
+  {
+    "schoolName": "University of Georgia",
+    "rank": "22(tie)",
+    "tuitionOutofstate": "$30,220",
+    "tuitionInstate": "$11,180",
+    "location": "Athens, GA",
+    "conference": "SEC",
+    "mascot": "Bulldogs",
+    "logo": "https://1000logos.net/wp-content/uploads/2021/06/Georgia-Bulldogs-logo.png"
+  },
+  {
+    "schoolName": "Emory University",
+    "rank": "26",
+    "tuitionOutofstate": "$57,948",
+    "tuitionInstate": "$57,948",
+    "location": "Atlanta, GA",
+    "conference": "UAA",
+    "mascot": "Swoop aka Eagles",
+    "logo": "https://cdn.freebiesupply.com/logos/large/2x/emory-university-logo-svg-vector.svg"
+  },
+  {
+    "schoolName": "The Pennsylvania State University",
+    "rank": "27(tie)",
+    "tuitionOutofstate": "$36,476",
+    "tuitionInstate": "$18,898",
+    "location": "University Park, PA",
+    "conference": "Big Ten",
+    "mascot": "The Nittany Lions",
+    "logo": "https://banner2.cleanpng.com/20180620/cju/kisspng-pennsylvania-state-university-penn-state-greater-a-arizona-boiler-company-inc-5b29d4b8033743.1293472415294680880132.jpg"
+  }
+]
