@@ -5,13 +5,13 @@ const School = (props) => {
 
   return (
     <div className="school">
-      <img src={props.schools.logo} alt={props.schools.schoolName} id="logo" />
+      <img src={props.school.logo} alt={props.school.schoolName} id="logo" />
       <div id="info">
-        <h1>{props.schools.schoolName}</h1>
-        <h3>Ranking:{props.schools.rank}</h3>
+        <h1>{props.school.schoolName}</h1>
+        <h3>Ranking:{props.school.rank}</h3>
       </div>
       <div className="conference">
-        {props.schools.conference.map((conference) => (
+        {props.school.conference.map((conference) => (
           <Conference conference={conference} />
         ))}
       </div>
