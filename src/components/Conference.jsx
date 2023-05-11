@@ -32,9 +32,9 @@ const Conference = (props) => {
 
   return (
     <div>
-      <h2 style={{ backgroundColor: colorVariable, color: '#000000' }}>
+      <h3 style={{ backgroundColor: colorVariable, color: '#000000' }}>
         {props.conference}
-      </h2>
+      </h3>
     </div>
   )
 }
