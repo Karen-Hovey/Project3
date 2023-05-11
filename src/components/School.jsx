@@ -18,3 +18,5 @@ const School = (props) => {
     </div>
   )
 }
+
+export default School

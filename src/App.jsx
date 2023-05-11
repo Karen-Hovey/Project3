@@ -1,6 +1,6 @@
 import './App.css'
 import schoolArray from './schools.json'
-import School from './components/Schools'
+import School from './components/School'
 
 const App = () => {
   console.log(schoolArray)
