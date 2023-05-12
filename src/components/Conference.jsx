@@ -6,13 +6,13 @@ const Conference = (props) => {
       colorVariable = 'blue'
       break
     case 'Big Ten':
-      colorVariable = 'red'
+      colorVariable = 'cornflowerblue'
       break
     case 'SEC':
       colorVariable = 'yellow'
       break
     case 'Ivy League':
-      colorVariable = 'orange'
+      colorVariable = 'lemonchiffon'
       break
     case 'PAC-12':
       colorVariable = 'pink'
@@ -21,7 +21,7 @@ const Conference = (props) => {
       colorVariable = 'lavender'
       break
     case 'Big 12':
-      colorVariable = 'dodgerblue'
+      colorVariable = 'deepskyblue'
       break
     case 'Atlantic 10':
       colorVariable = 'darkviolet'
