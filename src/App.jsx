@@ -2,6 +2,7 @@ import './App.css'
 import schoolArray from './schools.json'
 import School from './components/School'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import Button from './components/Button'
 import Navigation from './components/Navigation'
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
           <School key={school.schoolName} school={school} />
         ))}
       </main>
+      <Button />
     </div>
   )
 }
