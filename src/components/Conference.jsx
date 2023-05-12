@@ -1,7 +1,7 @@
 const Conference = (props) => {
   let colorVariable
 
-  switch (props.conference) {
+  switch (props.school.conference) {
     case 'UAA':
       colorVariable = 'blue'
       break
