@@ -11,7 +11,8 @@ const School = (props) => {
         <h3>Ranking: #{props.school.rank}</h3>
       </div>
       <div className="conference">
-        <h3>Conference: {props.school.conference}</h3>
+        {/* <h3>Conference: {props.school.conference}</h3> */}
+        <Conference conference={props.school.conference} />
       </div>
     </div>
   )

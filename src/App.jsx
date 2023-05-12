@@ -1,6 +1,7 @@
 import './App.css'
 import schoolArray from './schools.json'
 import School from './components/School'
+import Navigation from './components/Navigation'
 
 const App = () => {
   console.log(schoolArray)
