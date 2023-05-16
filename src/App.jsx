@@ -3,7 +3,7 @@ import schoolArray from './schools.json'
 import School from './components/School'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Button from './components/Button'
-import Navigation from './components/Navigation'
+import Navbar from './components/Navbar'
 
 const App = () => {
   console.log(schoolArray)
