@@ -7,7 +7,8 @@
     "location": "Ann Arbor, MI",
     "conference": "Big Ten",
     "mascot": "NA aka Wolverine",
-    "logo": "https://seeklogo.com/images/U/university-of-michigan-logo-55B0FE825E-seeklogo.com.png"
+    "logo": "https://seeklogo.com/images/U/university-of-michigan-logo-55B0FE825E-seeklogo.com.png",
+    "link": ""
   },
   {
     "schoolName": "University of Pennsylvania",
@@ -17,7 +18,8 @@
     "location": "Philadelphia, PA",
     "conference": "Ivy League",
     "mascot": "The Fighting Quaker",
-    "logo": "https://branding.web-resources.upenn.edu/sites/default/files/styles/card_3x2/public/2022-03/UniversityofPennsylvania_Vertical_RGB-2.png?h=02be4b2a&itok=mPdml12L"
+    "logo": "https://branding.web-resources.upenn.edu/sites/default/files/styles/card_3x2/public/2022-03/UniversityofPennsylvania_Vertical_RGB-2.png?h=02be4b2a&itok=mPdml12L",
+    "link": ""
   },
   {
     "schoolName": "Indiana University",
@@ -27,7 +29,8 @@
     "location": "Bloomington, IN",
     "conference": "Big Ten",
     "mascot": "NA aka Hoosiers",
-    "logo": "https://cdn.freebiesupply.com/logos/large/2x/indiana-hoosiers-logo-png-transparent.png"
+    "logo": "https://cdn.freebiesupply.com/logos/large/2x/indiana-hoosiers-logo-png-transparent.png",
+    "link": ""
   },
   {
     "schoolName": "University of Texas at Austin",
@@ -37,7 +40,8 @@
     "location": "Austin, TX",
     "conference": "Big 12",
     "mascot": "Bevo: Texas Longhorn",
-    "logo": "https://logos-world.net/wp-content/uploads/2022/02/University-of-Texas-at-Austin-Logo.png"
+    "logo": "https://logos-world.net/wp-content/uploads/2022/02/University-of-Texas-at-Austin-Logo.png",
+    "link": ""
   },
   {
     "schoolName": "New York University",
@@ -47,7 +51,8 @@
     "location": "New York, NY",
     "conference": "UAA",
     "mascot": "Bobcat",
-    "logo": "https://logos-world.net/wp-content/uploads/2021/09/NYU-Logo.png"
+    "logo": "https://logos-world.net/wp-content/uploads/2021/09/NYU-Logo.png",
+    "link": ""
   },
   {
     "schoolName": "University of California, Berkeley",
@@ -57,7 +62,8 @@
     "location": "Berkeley, CA",
     "conference": "PAC-12",
     "mascot": "Oski the Bear",
-    "logo": "https://download.logo.wine/logo/University_of_California%2C_Berkeley/University_of_California%2C_Berkeley-Logo.wine.png"
+    "logo": "https://download.logo.wine/logo/University_of_California%2C_Berkeley/University_of_California%2C_Berkeley-Logo.wine.png",
+    "link": ""
   },
   {
     "schoolName": "University of Virginia",
@@ -67,7 +73,8 @@
     "location": "Charlottesville, VA",
     "conference": "ACC",
     "mascot": "Cavalier",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Virginia_Cavaliers_sabre.svg/2560px-Virginia_Cavaliers_sabre.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Virginia_Cavaliers_sabre.svg/2560px-Virginia_Cavaliers_sabre.svg.png",
+    "link": ""
   },
   {
     "schoolName": "University of Wisconsin - Madison",
@@ -77,7 +84,8 @@
     "location": "Madison, WI",
     "conference": "Big Ten",
     "mascot": "Bucky Badger",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wisconsin_Badgers_logo.svg/1086px-Wisconsin_Badgers_logo.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wisconsin_Badgers_logo.svg/1086px-Wisconsin_Badgers_logo.svg.png",
+    "link": ""
   },
   {
     "schoolName": "University of North Caroline at Chapel Hill",
@@ -87,7 +95,8 @@
     "location": "Chapel Hill, NC",
     "conference": "ACC",
     "mascot": "Rameses: Tar Hills",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/North_Carolina_Tar_Heels_logo.svg/1280px-North_Carolina_Tar_Heels_logo.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/North_Carolina_Tar_Heels_logo.svg/1280px-North_Carolina_Tar_Heels_logo.svg.png",
+    "link": ""
   },
   {
     "schoolName": "University of Florida",
@@ -97,7 +106,8 @@
     "location": "Gainesville, FL",
     "conference": "SEC",
     "mascot": "Albert and Alberta Gator: Gators",
-    "logo": "https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png"
+    "logo": "https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png",
+    "link": ""
   },
   {
     "schoolName": "University of Southern California",
@@ -107,7 +117,8 @@
     "location": "Los Angeles, CA",
     "conference": "PAC-12",
     "mascot": "Traveler the horse: Trojans",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/USC_Trojans_logo.svg/640px-USC_Trojans_logo.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/USC_Trojans_logo.svg/640px-USC_Trojans_logo.svg.png",
+    "link": ""
   },
   {
     "schoolName": "University of Illinois Urbana-Champaign",
@@ -117,7 +128,8 @@
     "location": "Champagne, IL",
     "conference": "Big Ten",
     "mascot": "NA aka The Fighting Illini",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Illinois_Fighting_Illini_logo.svg/1420px-Illinois_Fighting_Illini_logo.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Illinois_Fighting_Illini_logo.svg/1420px-Illinois_Fighting_Illini_logo.svg.png",
+    "link": ""
   },
   {
     "schoolName": "Texas A&M",
@@ -127,7 +139,8 @@
     "location": "College Station, TX",
     "conference": "SEC",
     "mascot": "Reveille aka Aggies",
-    "logo": "https://brandguide.tamu.edu/assets/img/logos/tam-logo.png"
+    "logo": "https://brandguide.tamu.edu/assets/img/logos/tam-logo.png",
+    "link": ""
   },
   {
     "schoolName": "University of Notre Dame",
@@ -137,7 +150,8 @@
     "location": "Notre Dame, IN",
     "conference": "ACC",
     "mascot": "Leprechaun aka Fighting Irish",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Notre_Dame_Fighting_Irish_logo.svg/2276px-Notre_Dame_Fighting_Irish_logo.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Notre_Dame_Fighting_Irish_logo.svg/2276px-Notre_Dame_Fighting_Irish_logo.svg.png",
+    "link": ""
   },
   {
     "schoolName": "Arizona State University",
@@ -147,7 +161,8 @@
     "location": "Tempe, AZ",
     "conference": "PAC-12",
     "mascot": "Sparky the Sun Devil",
-    "logo": "https://cdn.freebiesupply.com/logos/large/2x/arizona-state-university-logo-svg-vector.svg"
+    "logo": "https://cdn.freebiesupply.com/logos/large/2x/arizona-state-university-logo-svg-vector.svg",
+    "link": ""
   },
   {
     "schoolName": "Boston College",
@@ -157,7 +172,8 @@
     "location": "Chestnut Hill, MA",
     "conference": "ACC",
     "mascot": "Baldwin the Eagle",
-    "logo": "https://1000logos.net/wp-content/uploads/2021/06/Boston-College-Eagles-logo.png"
+    "logo": "https://1000logos.net/wp-content/uploads/2021/06/Boston-College-Eagles-logo.png",
+    "link": ""
   },
   {
     "schoolName": "Fordham University",
@@ -167,7 +183,8 @@
     "location": "New York, NY",
     "conference": "Atlantic 10",
     "mascot": "The Ram",
-    "logo": "https://cdn.freebiesupply.com/logos/large/2x/fordham-rams-logo-png-transparent.png"
+    "logo": "https://cdn.freebiesupply.com/logos/large/2x/fordham-rams-logo-png-transparent.png",
+    "link": ""
   },
   {
     "schoolName": "The Ohio State University",
@@ -177,7 +194,8 @@
     "location": "Columbus, OH",
     "conference": "Big Ten",
     "mascot": "Brutus Buckeye",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ohio_State_Buckeyes_logo.svg/1041px-Ohio_State_Buckeyes_logo.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ohio_State_Buckeyes_logo.svg/1041px-Ohio_State_Buckeyes_logo.svg.png",
+    "link": ""
   },
   {
     "schoolName": "University of Maryland, College Park",
@@ -187,7 +205,8 @@
     "location": "College Park, MD",
     "conference": "Big Ten",
     "mascot": "Testudo aka The Terrapins",
-    "logo": "https://seeklogo.com/images/U/university-of-maryland-logo-26CF28182C-seeklogo.com.png"
+    "logo": "https://seeklogo.com/images/U/university-of-maryland-logo-26CF28182C-seeklogo.com.png",
+    "link": ""
   },
   {
     "schoolName": "University of Minnesota, Twin Cities",
@@ -197,7 +216,8 @@
     "location": "Minneapolis, MN",
     "conference": "Big Ten",
     "mascot": "Goldy Gopher aka Gophers",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/1280px-University_of_Minnesota_Logo.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/1280px-University_of_Minnesota_Logo.svg.png",
+    "link": ""
   },
   {
     "schoolName": "University of Washington",
@@ -207,7 +227,8 @@
     "location": "Seattle, WA",
     "conference": "PAC-12",
     "mascot": "Harry the Husky aka The Huskies",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Washington_Huskies_logo.svg/2560px-Washington_Huskies_logo.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Washington_Huskies_logo.svg/2560px-Washington_Huskies_logo.svg.png",
+    "link": ""
   },
   {
     "schoolName": "Cornell University",
@@ -217,7 +238,8 @@
     "location": "Ithaca, NY",
     "conference": "Ivy League",
     "mascot": "Big Red Bear",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cornell_University_Logo.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cornell_University_Logo.png",
+    "link": ""
   },
   {
     "schoolName": "Loyola University Chicago",
@@ -227,7 +249,8 @@
     "location": "Chicago, IL",
     "conference": "Atlantic 10",
     "mascot": "LU Wolf aka The Ramblers",
-    "logo": "https://luc.edu/media/lucedu/universitymarketingcommunication/LUC_vertical.png"
+    "logo": "https://luc.edu/media/lucedu/universitymarketingcommunication/LUC_vertical.png",
+    "link": ""
   },
   {
     "schoolName": "Michigan State University",
@@ -237,7 +260,8 @@
     "location": "East Lansing, MI",
     "conference": "Big Ten",
     "mascot": "Sparty aka The Spartans",
-    "logo": "https://1000logos.net/wp-content/uploads/2017/10/michigan-state-logo.png"
+    "logo": "https://1000logos.net/wp-content/uploads/2017/10/michigan-state-logo.png",
+    "link": ""
   },
   {
     "schoolName": "University of Georgia",
@@ -247,7 +271,8 @@
     "location": "Athens, GA",
     "conference": "SEC",
     "mascot": "Bulldogs",
-    "logo": "https://1000logos.net/wp-content/uploads/2021/06/Georgia-Bulldogs-logo.png"
+    "logo": "https://1000logos.net/wp-content/uploads/2021/06/Georgia-Bulldogs-logo.png",
+    "link": ""
   },
   {
     "schoolName": "Emory University",
@@ -257,7 +282,8 @@
     "location": "Atlanta, GA",
     "conference": "UAA",
     "mascot": "Swoop aka Eagles",
-    "logo": "https://cdn.freebiesupply.com/logos/large/2x/emory-university-logo-svg-vector.svg"
+    "logo": "https://cdn.freebiesupply.com/logos/large/2x/emory-university-logo-svg-vector.svg",
+    "link": ""
   },
   {
     "schoolName": "The Pennsylvania State University",
@@ -267,6 +293,7 @@
     "location": "University Park, PA",
     "conference": "Big Ten",
     "mascot": "The Nittany Lions",
-    "logo": "https://seeklogo.com/images/P/penn-state-nittany-lions-logo-66F93FF2A7-seeklogo.com.png"
+    "logo": "https://seeklogo.com/images/P/penn-state-nittany-lions-logo-66F93FF2A7-seeklogo.com.png",
+    "link": ""
   }
 ]
