@@ -17,7 +17,7 @@ code {
   flex-direction: column;
   align-items: center;
   width: 100vm;
-  background-color: #757bc8;
+  background-color: #03045e;
 }
 
 .school {
@@ -26,8 +26,8 @@ flex-direction: column;
 align-items: center;
 min-height: 10vh;
 font-size: calc(10px + 2vmin);
-color: #eccaff;
-background-color: #757bc8;
+color: #0096c7;
+background-color: #03045e;
 
 }
 
@@ -43,12 +43,12 @@ h1{
 text-align:center;
 font-size: 50px;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-color: #eccaff}
+color: #0096c7}
 
 #info{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color: #eccaff;
-background-color: #757bc8;
+  color: #0096c7;
+background-color: #03045e;
 font-size: 20px;
 text-align: center;
 }
@@ -57,7 +57,7 @@ text-align: center;
   font-size: 30px;
   border-style: solid;
   text-align: center;
-  border-color: #757bc8;
+  border-color: #03045e;
 }
 
 main {
@@ -65,12 +65,13 @@ display: flex;
 flex-direction: row;
 flex-wrap: wrap;
 justify-content: center;
-background-color: #757bc8;
+background-color: #03045e;
 flex: 1 1 0px;
+margin-top: 100px;
 }
 
 img {
-background-color: #8e94f2;
+background-color: #0077b6;
 margin: 50px;
 padding: 10px;
 width: 18vw;
@@ -79,11 +80,11 @@ height: 350px
 
 img:hover{
   opacity:0.7;
-  background-color: #e2c6ff;
+  background-color: #0096c7;
 }
 
 .button {
-  background-color: plum;
+  background-color: #0096c7;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -93,11 +94,13 @@ img:hover{
   font-size: 20px;
 }
 
-
-
 .Navbar {
-  text-align:left;
+  text-align: center;
   font-size: 80px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color: #eccaff
+  color: #0096c7;
+  position: fixed;
+  top:0;
+  background-color: #03045e;
+width: 100%;
 }
