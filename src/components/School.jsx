@@ -5,7 +5,9 @@ const School = (props) => {
 
   return (
     <div className="school">
-      <img src={props.school.logo} alt={props.school.schoolName} id="logo" />
+      <a href={props.school.link}>
+        <img src={props.school.logo} alt={props.school.schoolName} id="logo" />
+      </a>
       <div id="info">
         <h1>{props.school.schoolName}</h1>
         <h3>Ranking: #{props.school.rank}</h3>
